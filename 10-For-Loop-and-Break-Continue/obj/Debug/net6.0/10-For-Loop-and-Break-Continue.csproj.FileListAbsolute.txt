@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\bin\Debug\net6.0\10-For-Loop-and-Break-Continue.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\bin\Debug\net6.0\10-For-Loop-and-Break-Continue.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\bin\Debug\net6.0\10-For-Loop-and-Break-Continue.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\bin\Debug\net6.0\10-For-Loop-and-Break-Continue.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\bin\Debug\net6.0\ref\10-For-Loop-and-Break-Continue.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\bin\Debug\net6.0\10-For-Loop-and-Break-Continue.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\ref\10-For-Loop-and-Break-Continue.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\10-For-Loop-and-Break-Continue\obj\Debug\net6.0\10-For-Loop-and-Break-Continue.genruntimeconfig.cache
