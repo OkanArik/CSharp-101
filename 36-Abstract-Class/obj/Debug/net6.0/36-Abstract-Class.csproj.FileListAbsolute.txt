@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\bin\Debug\net6.0\36-Abstract-Class.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\bin\Debug\net6.0\36-Abstract-Class.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\bin\Debug\net6.0\36-Abstract-Class.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\bin\Debug\net6.0\36-Abstract-Class.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\bin\Debug\net6.0\ref\36-Abstract-Class.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\bin\Debug\net6.0\36-Abstract-Class.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\ref\36-Abstract-Class.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\36-Abstract-Class\obj\Debug\net6.0\36-Abstract-Class.genruntimeconfig.cache
