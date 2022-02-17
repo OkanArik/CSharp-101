@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\bin\Debug\net6.0\17-Algoritma-Soruları.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\bin\Debug\net6.0\17-Algoritma-Soruları.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\bin\Debug\net6.0\17-Algoritma-Soruları.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\bin\Debug\net6.0\17-Algoritma-Soruları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\bin\Debug\net6.0\ref\17-Algoritma-Soruları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\bin\Debug\net6.0\17-Algoritma-Soruları.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\ref\17-Algoritma-Soruları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\17-Algoritma-Soruları\obj\Debug\net6.0\17-Algoritma-Soruları.genruntimeconfig.cache
