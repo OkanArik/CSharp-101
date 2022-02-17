@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\bin\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\bin\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\bin\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\bin\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\bin\Debug\net6.0\ref\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\bin\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\ref\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı\obj\Debug\net6.0\12-Tanımlama-Erişim-ve-Döngülerle-Dizi-Kullanımı.genruntimeconfig.cache
