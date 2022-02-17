@@ -41,7 +41,7 @@ public class KartGuncelle
         }   
     }
 
-    private static void KartGuncellemeMethodu(Kart item)
+   private static void KartGuncellemeMethodu(Kart item)
     {
         Console.WriteLine("Başlık     : {0}",item.Baslik);
         Console.WriteLine("İçerik     : {0}",item.Icerik);
@@ -49,8 +49,9 @@ public class KartGuncelle
         Console.WriteLine("Büyüklük   : {0}",item.Buyukluk);
         Console.WriteLine("  -   ");
         Console.Write("Güncellemek istediğniz veri için yukarıdan aşağıya doğru sırası ile 1 , 2, 3 veya 4 değerini giriniz:");
-        if (int.TryParse(Console.ReadLine(),out int sec))
+        try
         {
+            int sec=int.Parse(Console.ReadLine());
             Console.WriteLine("Güncel veriyi giriniz:");
             switch (sec)
             {
@@ -71,7 +72,15 @@ public class KartGuncelle
                 case 4:
                 item.Buyukluk=Convert.ToString((BUYUKLUK)(int.Parse(Console.ReadLine())));
                 break;
+                default:
+                Console.WriteLine("Geçersiz seçim yaptınız!");
+                Console.WriteLine("İşlem iptal edildi!");
+                break;
             }
+        }
+        catch (System.FormatException ex)
+        {
+            Console.WriteLine("Exception : {0}",ex.Message);
         }
     }
 }
