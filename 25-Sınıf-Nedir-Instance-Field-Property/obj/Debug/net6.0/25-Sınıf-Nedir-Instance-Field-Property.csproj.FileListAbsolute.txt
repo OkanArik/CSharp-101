@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\bin\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\bin\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\bin\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\bin\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\bin\Debug\net6.0\ref\25-Sınıf-Nedir-Instance-Field-Property.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\bin\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\ref\25-Sınıf-Nedir-Instance-Field-Property.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\25-Sınıf-Nedir-Instance-Field-Property\obj\Debug\net6.0\25-Sınıf-Nedir-Instance-Field-Property.genruntimeconfig.cache
