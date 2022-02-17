@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\bin\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\bin\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\bin\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\bin\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\bin\Debug\net6.0\ref\19-Hazır-DateTime-ve-Math-Sınıfları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\bin\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\ref\19-Hazır-DateTime-ve-Math-Sınıfları.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\19-Hazır-DateTime-ve-Math-Sınıfları\obj\Debug\net6.0\19-Hazır-DateTime-ve-Math-Sınıfları.genruntimeconfig.cache
