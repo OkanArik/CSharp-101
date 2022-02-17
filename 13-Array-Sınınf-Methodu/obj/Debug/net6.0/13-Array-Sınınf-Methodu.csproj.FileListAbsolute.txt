@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\bin\Debug\net6.0\13-Array-Sınınf-Methodu.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\bin\Debug\net6.0\13-Array-Sınınf-Methodu.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\bin\Debug\net6.0\13-Array-Sınınf-Methodu.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\bin\Debug\net6.0\13-Array-Sınınf-Methodu.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\bin\Debug\net6.0\ref\13-Array-Sınınf-Methodu.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\bin\Debug\net6.0\13-Array-Sınınf-Methodu.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\ref\13-Array-Sınınf-Methodu.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\13-Array-Sınınf-Methodu\obj\Debug\net6.0\13-Array-Sınınf-Methodu.genruntimeconfig.cache
