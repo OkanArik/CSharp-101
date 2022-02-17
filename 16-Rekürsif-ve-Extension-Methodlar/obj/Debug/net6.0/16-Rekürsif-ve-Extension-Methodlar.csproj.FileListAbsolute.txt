@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\bin\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\bin\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\bin\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\bin\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\bin\Debug\net6.0\ref\16-Rekürsif-ve-Extension-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\bin\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\ref\16-Rekürsif-ve-Extension-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\16-Rekürsif-ve-Extension-Methodlar\obj\Debug\net6.0\16-Rekürsif-ve-Extension-Methodlar.genruntimeconfig.cache
