@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\bin\Debug\net6.0\11-While-Foreach.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\bin\Debug\net6.0\11-While-Foreach.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\bin\Debug\net6.0\11-While-Foreach.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\bin\Debug\net6.0\11-While-Foreach.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\bin\Debug\net6.0\ref\11-While-Foreach.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\bin\Debug\net6.0\11-While-Foreach.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\ref\11-While-Foreach.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\11-While-Foreach\obj\Debug\net6.0\11-While-Foreach.genruntimeconfig.cache
