@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\bin\Debug\net6.0\29-Struct(Yapı)-Kavramı.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\bin\Debug\net6.0\29-Struct(Yapı)-Kavramı.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\bin\Debug\net6.0\29-Struct(Yapı)-Kavramı.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\bin\Debug\net6.0\29-Struct(Yapı)-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\bin\Debug\net6.0\ref\29-Struct(Yapı)-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\bin\Debug\net6.0\29-Struct(Yapı)-Kavramı.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\ref\29-Struct(Yapı)-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\29-Struct(Yapı)-Kavramı\obj\Debug\net6.0\29-Struct(Yapı)-Kavramı.genruntimeconfig.cache
