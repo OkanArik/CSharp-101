@@ -163,4 +163,5 @@ Takım üyeleri daha önceden varsayıla olarak tanımlanmış bir listede olmal
 <h2>Proje'ye yaptığım eklemeler:</h2><br>
 
 -->Board'ımdaki kartlardan istediğimi seçim istediğim özelliğini güncelleyebiliyorum.<br>
--->To Do Uygulamama kapatma seçeneği koydum ve ben kapatma seçeneğimi seçmedikçe işlemimi tamamladıkça uygulamamın ana ekranına dönüş yapıyor ve seçimimi bekliyor.
+-->To Do Uygulamama kapatma seçeneği koydum ve ben kapatma seçeneğimi seçmedikçe işlemimi tamamladıkça uygulamamın ana ekranına dönüş yapıyor ve seçimimi bekliyor.<br><br><br>
+
