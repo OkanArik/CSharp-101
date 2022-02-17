@@ -28,7 +28,7 @@
 //   (2) Varolan Numarayı Silmek
 //   (3) Varolan Numarayı Güncelleme
 //   (4) Rehberi Listelemek
-//   (5) Rehberde Arama Yapmak﻿
+//   (5) Rehberde Arama Yapmak
 
 
 // (1) Yeni Numara Kaydetmek
