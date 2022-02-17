@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\bin\Debug\net6.0\7-Try_Catch_Finally.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\bin\Debug\net6.0\7-Try_Catch_Finally.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\bin\Debug\net6.0\7-Try_Catch_Finally.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\bin\Debug\net6.0\7-Try_Catch_Finally.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\bin\Debug\net6.0\ref\7-Try_Catch_Finally.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\bin\Debug\net6.0\7-Try_Catch_Finally.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\ref\7-Try_Catch_Finally.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\7-Try_Catch_Finally\obj\Debug\net6.0\7-Try_Catch_Finally.genruntimeconfig.cache
