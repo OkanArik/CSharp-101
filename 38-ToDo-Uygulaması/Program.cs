@@ -42,7 +42,7 @@ using System.Collections.Generic;
                             Environment.Exit(0);//Environment'ın Türkçesi ortam demek .Burada Environment class'ının Exit methoduna 0 verisi ile erişerek uygulamamı sonlandırıyorum.
                             break;
                             default:
-                            Console.WriteLine("{0} tuşlaması yaptınız ve bu tuşlamada işlemimiz yok.Tekrar deneyiniz!");//Secim değişkenimdeki veri 1,2,3,4 veya 5 değilse switch bloğumda default(varsayılan) case(durum)'imi yürütüyorum ve kullanıcıyı giriş yaptığı değer hakkında uyarıyorum.
+                            Console.WriteLine("{0} tuşlaması yaptınız ve bu tuşlamada işlemimiz yok.Tekrar deneyiniz!",secim);//Secim değişkenimdeki veri 1,2,3,4 veya 5 değilse switch bloğumda default(varsayılan) case(durum)'imi yürütüyorum ve kullanıcıyı giriş yaptığı değer hakkında uyarıyorum.
                             break;
                         }
                 }
