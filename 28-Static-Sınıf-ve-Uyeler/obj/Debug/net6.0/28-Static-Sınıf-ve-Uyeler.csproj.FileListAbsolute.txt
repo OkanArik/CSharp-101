@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\bin\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\bin\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\bin\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\bin\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\bin\Debug\net6.0\ref\28-Static-Sınıf-ve-Uyeler.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\bin\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\ref\28-Static-Sınıf-ve-Uyeler.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\28-Static-Sınıf-ve-Uyeler\obj\Debug\net6.0\28-Static-Sınıf-ve-Uyeler.genruntimeconfig.cache
