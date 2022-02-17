@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\bin\Debug\net6.0\14-Method-Tanımlama.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\bin\Debug\net6.0\14-Method-Tanımlama.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\bin\Debug\net6.0\14-Method-Tanımlama.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\bin\Debug\net6.0\14-Method-Tanımlama.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\bin\Debug\net6.0\ref\14-Method-Tanımlama.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\bin\Debug\net6.0\14-Method-Tanımlama.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\ref\14-Method-Tanımlama.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\14-Method-Tanımlama\obj\Debug\net6.0\14-Method-Tanımlama.genruntimeconfig.cache
