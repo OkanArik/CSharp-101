@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\bin\Debug\net6.0\9-Switch-Case.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\bin\Debug\net6.0\9-Switch-Case.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\bin\Debug\net6.0\9-Switch-Case.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\bin\Debug\net6.0\9-Switch-Case.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\bin\Debug\net6.0\ref\9-Switch-Case.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\bin\Debug\net6.0\9-Switch-Case.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\ref\9-Switch-Case.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\9-Switch-Case\obj\Debug\net6.0\9-Switch-Case.genruntimeconfig.cache
