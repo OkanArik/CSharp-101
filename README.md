@@ -5,4 +5,4 @@ Bu repoyu hazırlamamdaki motivasyonum , CSharp ilerleyişim sırasında kaynak 
 
 C#101 konusunda kendini geliştirmek isteyen arkadaşlara yardımcı olması dileğiyle :)
 
-Kodlamaya devam:)
+
