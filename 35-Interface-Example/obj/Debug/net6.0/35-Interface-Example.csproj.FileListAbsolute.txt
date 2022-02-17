@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\bin\Debug\net6.0\35-Interface-Example.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\bin\Debug\net6.0\35-Interface-Example.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\bin\Debug\net6.0\35-Interface-Example.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\bin\Debug\net6.0\35-Interface-Example.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\bin\Debug\net6.0\ref\35-Interface-Example.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\bin\Debug\net6.0\35-Interface-Example.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\ref\35-Interface-Example.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\35-Interface-Example\obj\Debug\net6.0\35-Interface-Example.genruntimeconfig.cache
