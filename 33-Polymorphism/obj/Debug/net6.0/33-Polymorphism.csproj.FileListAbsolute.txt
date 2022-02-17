@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\bin\Debug\net6.0\33-Polymorphism.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\bin\Debug\net6.0\33-Polymorphism.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\bin\Debug\net6.0\33-Polymorphism.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\bin\Debug\net6.0\33-Polymorphism.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\bin\Debug\net6.0\ref\33-Polymorphism.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\bin\Debug\net6.0\33-Polymorphism.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\ref\33-Polymorphism.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\33-Polymorphism\obj\Debug\net6.0\33-Polymorphism.genruntimeconfig.cache
