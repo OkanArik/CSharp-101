@@ -1,0 +1,30 @@
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\bin\Debug\net6.0\Yeni klasör (3).exe
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\bin\Debug\net6.0\Yeni klasör (3).deps.json
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\bin\Debug\net6.0\Yeni klasör (3).runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\bin\Debug\net6.0\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\bin\Debug\net6.0\ref\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\bin\Debug\net6.0\Yeni klasör (3).pdb
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\ref\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).pdb
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (3)\obj\Debug\net6.0\Yeni klasör (3).genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\bin\Debug\net6.0\Yeni klasör (3).exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\bin\Debug\net6.0\Yeni klasör (3).deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\bin\Debug\net6.0\Yeni klasör (3).runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\bin\Debug\net6.0\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\bin\Debug\net6.0\ref\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\bin\Debug\net6.0\Yeni klasör (3).pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\ref\Yeni klasör (3).dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\38-ToDo-Uygulaması\obj\Debug\net6.0\Yeni klasör (3).genruntimeconfig.cache
