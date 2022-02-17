@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\bin\Debug\net6.0\23-Koleksiyonlar-Dictionary.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\bin\Debug\net6.0\23-Koleksiyonlar-Dictionary.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\bin\Debug\net6.0\23-Koleksiyonlar-Dictionary.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\bin\Debug\net6.0\23-Koleksiyonlar-Dictionary.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\bin\Debug\net6.0\ref\23-Koleksiyonlar-Dictionary.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\bin\Debug\net6.0\23-Koleksiyonlar-Dictionary.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\ref\23-Koleksiyonlar-Dictionary.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\23-Koleksiyonlar-Dictionary\obj\Debug\net6.0\23-Koleksiyonlar-Dictionary.genruntimeconfig.cache
