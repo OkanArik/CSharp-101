@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\bin\Debug\net6.0\8-If-ElseIf-Ternary-If.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\bin\Debug\net6.0\8-If-ElseIf-Ternary-If.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\bin\Debug\net6.0\8-If-ElseIf-Ternary-If.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\bin\Debug\net6.0\8-If-ElseIf-Ternary-If.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\bin\Debug\net6.0\ref\8-If-ElseIf-Ternary-If.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\bin\Debug\net6.0\8-If-ElseIf-Ternary-If.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\ref\8-If-ElseIf-Ternary-If.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\8-If-ElseIf-Ternary-If\obj\Debug\net6.0\8-If-ElseIf-Ternary-If.genruntimeconfig.cache
