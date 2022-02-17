@@ -142,7 +142,7 @@ Arama sonucuna göre bulunan veriler aşağıdaki formatta gösterilmeli.<br>
 
 ** Her bir feature ayrı class/method kullanarak yapılmalıdır. Mümkün olduğunca sorumlulukları parçalanmalı ve kod okunabilir olmalıdır.<br>
 
-Burada programımı çalıştırıp işlemler yapıp kapatma işlemini görsel şekilde sizinle paylaşacağım:
+Burada programımı çalıştırıp işlemlerin ilerleyişini görsel şekilde sizinle paylaşacağım:
 <br>
 ![t1](https://user-images.githubusercontent.com/89224500/154528543-72e4c2d8-15b3-4c6d-9acc-3bf0a6bb7318.png)
 <br><br>
