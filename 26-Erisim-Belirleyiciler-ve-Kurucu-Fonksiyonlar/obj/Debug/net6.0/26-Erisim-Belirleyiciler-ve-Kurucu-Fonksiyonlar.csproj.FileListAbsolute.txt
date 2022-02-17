@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\bin\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\bin\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\bin\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\bin\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\bin\Debug\net6.0\ref\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\bin\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\ref\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar\obj\Debug\net6.0\26-Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar.genruntimeconfig.cache
