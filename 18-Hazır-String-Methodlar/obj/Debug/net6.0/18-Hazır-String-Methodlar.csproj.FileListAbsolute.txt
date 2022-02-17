@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\bin\Debug\net6.0\18-Hazır-String-Methodlar.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\bin\Debug\net6.0\18-Hazır-String-Methodlar.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\bin\Debug\net6.0\18-Hazır-String-Methodlar.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\bin\Debug\net6.0\18-Hazır-String-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\bin\Debug\net6.0\ref\18-Hazır-String-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\bin\Debug\net6.0\18-Hazır-String-Methodlar.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\ref\18-Hazır-String-Methodlar.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\18-Hazır-String-Methodlar\obj\Debug\net6.0\18-Hazır-String-Methodlar.genruntimeconfig.cache
