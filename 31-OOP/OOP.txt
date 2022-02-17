@@ -1,0 +1,8 @@
+Object Oriented Programming(Nesneye Dayalımlı Programlama)(OOP)
+Nesneye dayalı programlama Object Oriented Programming ismiyle ilk olarak 1960'larda yazılım geliştirme çözümü olarak ortaya çıktı.
+Yıllar içinde de olgunlaştı. Günümüzde de en sık kullanılan yaklaşımlardan biri haline geldi. Nesne yönelimli yaklaşım gerçek 
+hayattaki modellerin yazılıma adapte edilebileceğini savunan bir yaklaşımdır.
+Günümüzde C# ile birlikte bir çok dil nesne yönelimli programlama yani OOP desteği sunar. OOP 3 ana prensipten oluşur.
+1.Encapsulation (Kapsülleme):Encapsulation sınıf içerisindeki fieldlarımızı koruma amaçlı public propertylerle kapsülleme işlemidir. 
+2.Polymorphism (Çok Biçimcilik)
+3.Inheritance (Kalıtım)
