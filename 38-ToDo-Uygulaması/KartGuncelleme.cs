@@ -81,6 +81,7 @@ public class KartGuncelle
         catch (System.FormatException ex)
         {
             Console.WriteLine("Exception : {0}",ex.Message);
+            Console.WriteLine("Uygunsuz formatta veri girişi yaptınız. İşlem iptal edildi!");
         }
     }
 }
