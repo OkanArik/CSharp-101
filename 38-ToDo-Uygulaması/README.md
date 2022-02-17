@@ -158,3 +158,9 @@ Her bir line bir kart listesi tutar<br>
 Kart ların büyüklükleri pre-defined olan bir enum'da tutulur.<br>
 Kart sadece takım üyelerinden birine atanabilir.<br>
 Takım üyeleri daha önceden varsayıla olarak tanımlanmış bir listede olmalı. Struct, class yada bir koleksiyon kullanılabilir.<br>
+
+
+<h2>Proje'ye yaptığım eklemeler:</h2><br>
+
+-->Board'ımdaki kartlardan istediğimi seçim istediğim özelliğini güncelleyebiliyorum.
+-->To Do Uygulamama kapatma seçeneği koydum ve ben kapatma seçeneğimi seçmedikçe işlemimi tamamladıkça uygulamamın ana ekranına dönüş yapıyor ve seçimimi bekliyor.
