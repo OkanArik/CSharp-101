@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\bin\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\bin\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\bin\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\bin\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\bin\Debug\net6.0\ref\27-Encapsulation-ve-Property-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\bin\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\ref\27-Encapsulation-ve-Property-Kavramı.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\27-Encapsulation-ve-Property-Kavramı\obj\Debug\net6.0\27-Encapsulation-ve-Property-Kavramı.genruntimeconfig.cache
