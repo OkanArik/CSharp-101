@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\bin\Debug\net6.0\6-Type_Conversion.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\bin\Debug\net6.0\6-Type_Conversion.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\bin\Debug\net6.0\6-Type_Conversion.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\bin\Debug\net6.0\6-Type_Conversion.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\bin\Debug\net6.0\ref\6-Type_Conversion.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\bin\Debug\net6.0\6-Type_Conversion.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\ref\6-Type_Conversion.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\6-Type_Conversion\obj\Debug\net6.0\6-Type_Conversion.genruntimeconfig.cache
