@@ -165,7 +165,7 @@ Takım üyeleri daha önceden varsayıla olarak tanımlanmış bir listede olmal
 -->Board'ımdaki kartlardan istediğimi seçim istediğim özelliğini güncelleyebiliyorum.<br>
 -->To Do Uygulamama kapatma seçeneği koydum ve ben kapatma seçeneğimi seçmedikçe işlemimi tamamladıkça uygulamamın ana ekranına dönüş yapıyor ve seçimimi bekliyor.<br><br><br>
 
-Burada programımı çalıştırıp işlemlerin ilerleyişini görsel şekilde sizinle paylaşacağım:<br>
+Burada programımı çalıştırıp işlemlerin ilerleyişini görsel şekilde sizinle paylaşacağım:<br><br>
 ![t1](https://user-images.githubusercontent.com/89224500/154561704-c8b892fb-eb6f-4cdf-bb2b-a16fd6247f74.png)
 <br>
 ![t2](https://user-images.githubusercontent.com/89224500/154561715-656c8a61-b340-4da1-83bf-6c91b4868d88.png)
