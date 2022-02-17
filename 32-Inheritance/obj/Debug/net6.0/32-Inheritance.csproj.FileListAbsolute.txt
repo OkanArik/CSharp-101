@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\bin\Debug\net6.0\32-Inheritance.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\bin\Debug\net6.0\32-Inheritance.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\bin\Debug\net6.0\32-Inheritance.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\bin\Debug\net6.0\32-Inheritance.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\bin\Debug\net6.0\ref\32-Inheritance.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\bin\Debug\net6.0\32-Inheritance.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\ref\32-Inheritance.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\32-Inheritance\obj\Debug\net6.0\32-Inheritance.genruntimeconfig.cache
