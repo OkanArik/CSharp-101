@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\bin\Debug\net6.0\22-Koleksiyonlar-ArrayList.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\bin\Debug\net6.0\22-Koleksiyonlar-ArrayList.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\bin\Debug\net6.0\22-Koleksiyonlar-ArrayList.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\bin\Debug\net6.0\22-Koleksiyonlar-ArrayList.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\bin\Debug\net6.0\ref\22-Koleksiyonlar-ArrayList.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\bin\Debug\net6.0\22-Koleksiyonlar-ArrayList.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\ref\22-Koleksiyonlar-ArrayList.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\22-Koleksiyonlar-ArrayList\obj\Debug\net6.0\22-Koleksiyonlar-ArrayList.genruntimeconfig.cache
