@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\bin\Debug\net6.0\4-Variables_and_DataTypes.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\bin\Debug\net6.0\4-Variables_and_DataTypes.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\bin\Debug\net6.0\4-Variables_and_DataTypes.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\bin\Debug\net6.0\4-Variables_and_DataTypes.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\bin\Debug\net6.0\ref\4-Variables_and_DataTypes.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\bin\Debug\net6.0\4-Variables_and_DataTypes.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\ref\4-Variables_and_DataTypes.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\4-Variables_and_DataTypes\obj\Debug\net6.0\4-Variables_and_DataTypes.genruntimeconfig.cache
