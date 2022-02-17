@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\bin\Debug\net6.0\30-Enum.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\bin\Debug\net6.0\30-Enum.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\bin\Debug\net6.0\30-Enum.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\bin\Debug\net6.0\30-Enum.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\bin\Debug\net6.0\ref\30-Enum.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\bin\Debug\net6.0\30-Enum.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\ref\30-Enum.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\30-Enum\obj\Debug\net6.0\30-Enum.genruntimeconfig.cache
