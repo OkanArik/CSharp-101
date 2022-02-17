@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\bin\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\bin\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\bin\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\bin\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\bin\Debug\net6.0\ref\21-Generic-Koleksiyonlar-ve-List.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\bin\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\ref\21-Generic-Koleksiyonlar-ve-List.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\21-Generic-Koleksiyonlar-ve-List\obj\Debug\net6.0\21-Generic-Koleksiyonlar-ve-List.genruntimeconfig.cache
