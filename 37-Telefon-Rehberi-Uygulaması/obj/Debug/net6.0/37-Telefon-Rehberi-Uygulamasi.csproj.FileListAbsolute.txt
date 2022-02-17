@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.exe
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\ref\37-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\ref\37-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\DELL\OneDrive\Masaüstü\BaşlangıçSeviyesi.NETPatikası\C#101\37-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\37-Telefon-Rehberi-Uygulamasi.genruntimeconfig.cache
