@@ -140,7 +140,7 @@ Arama sonucuna göre bulunan veriler aşağıdaki formatta gösterilmeli.<br>
  .<br>
 
 
-** Her bir feature ayrı class/method kullanarak yapılmalıdır. Mümkün olduğunca sorumlulukları parçalanmalı ve kod okunabilir olmalıdır.<br><br><br><br><br><br><br><br><br><br>
+** Her bir feature ayrı class/method kullanarak yapılmalıdır. Mümkün olduğunca sorumlulukları parçalanmalı ve kod okunabilir olmalıdır.<br><br><br><br><br>
 
 Burada programımı çalıştırıp işlemlerin ilerleyişini görsel şekilde sizinle paylaşacağım:<br>
 <br>
