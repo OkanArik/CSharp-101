@@ -39,6 +39,9 @@
                     {Console.WriteLine("Dışarıya çıkmak için çok sıcak bir gün.");}
                 else if (sicaklik>(int)HavaDurumu.Normal && sicaklik<(int)HavaDurumu.CokSıcak)
                     {Console.WriteLine("Hadi dışarıya çıkalım.");}
+                
+                // Numarası ile enum sabitine ulaşabilir miyiz? Evet:
+                Console.Writeline((Gunler)2);// Output : Sali
 
             }
 
